@@ -18,6 +18,20 @@ Soy Ingeniero en Sistemas Computacionales del Instituto Tecnológico de Mérida.
 ### 💻 Stack Tecnológico
 
 **Front-End:**
+<br>
+![Front-End Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,figma)
+
+**Back-End & Bases de Datos:**
+<br>
+![Back-End Skills](https://skillicons.dev/icons?i=nodejs,py,php,postgres,mysql)
+
+**Herramientas & E-commerce:**
+<br>
+![Tools Skills](https://skillicons.dev/icons?i=git,github,wordpress)
+
+*(Nota: También domino plataformas como Shopify).*
+
+**Front-End:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -40,16 +54,10 @@ Soy Ingeniero en Sistemas Computacionales del Instituto Tecnológico de Mérida.
 
 ---
 
-### 📊 GitHub Stats
-
-*(Nota: Aquí puedes agregar widgets de estadísticas de GitHub si lo deseas, buscando "GitHub Readme Stats" en Google para generar tu enlace personalizado).*
-
----
-
 ### 📫 ¿Cómo contactarme?
 
-- **LinkedIn:** [Tu Enlace a LinkedIn]
-- **Portafolio Web:** [Tu Enlace al Portafolio]
+- **Número** 9993386267
 - **Email:** maubeckam05@gmail.com
+- **Instagram** @mauricio_mjmr
 
 💬 *Dato curioso: Puedo diseñar una arquitectura de red compleja por la mañana y optimizar un funnel de ventas con diseño UI/UX por la tarde.*
