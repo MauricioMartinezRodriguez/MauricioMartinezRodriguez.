@@ -8,10 +8,10 @@ Soy Ingeniero en Sistemas Computacionales del Instituto Tecnológico de Mérida.
 
 ### 🚀 ¿Qué estoy haciendo ahora?
 
-- 🔭 **Desarrollando:** Un sistema web de inventario full-stack para la gestión de activos de hardware (utilizando **React, Node.js y PostgreSQL**).
-- 🌱 **Construyendo:** Mi portafolio profesional interactivo desde cero con tecnologías web modernas.
-- 💼 **Trabajando en:** Optimización técnica de plataformas de e-commerce y arquitecturas de conversión.
-- ⚡ **Explorando:** Integración de herramientas de Inteligencia Artificial en flujos de desarrollo y frameworks como Tailwind CSS y Vite.
+- **Desarrollando:** Un sistema web de inventario full-stack para la gestión de activos de hardware (utilizando **React, Node.js y PostgreSQL**).
+- **Construyendo:** Mi portafolio profesional interactivo desde cero con tecnologías web modernas.
+- **Trabajando en:** Optimización técnica de plataformas de e-commerce y arquitecturas de conversión.
+- **Explorando:** Integración de herramientas de Inteligencia Artificial en flujos de desarrollo y frameworks como Tailwind CSS y Vite.
 
 ---
 
