@@ -2,7 +2,7 @@
 
 ### Ingeniero en Sistemas Computacionales | Full-Stack Developer | E-commerce Specialist
 
-Soy estudiante del 8vo semestre de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Mérida. Mi perfil es único: combino la lógica estructurada y la arquitectura de software con una sólida experiencia en e-commerce, marketing digital y diseño. Me apasiona construir soluciones web que no solo tengan un código limpio y escalable, sino que también ofrezcan una experiencia de usuario excepcional y resuelvan problemas de negocio reales.
+Soy Ingeniero en Sistemas Computacionales del Instituto Tecnológico de Mérida. Mi perfil es único: combino la lógica estructurada y la arquitectura de software con una sólida experiencia en e-commerce, marketing digital y diseño. Me apasiona construir soluciones web que no solo tengan un código limpio y escalable, sino que también ofrezcan una experiencia de usuario excepcional y resuelvan problemas de negocio reales.
 
 ---
 
