@@ -28,6 +28,7 @@ Soy Ingeniero en Sistemas Computacionales del Instituto Tecnológico de Mérida.
 **Herramientas & E-commerce:**
 <br>
 ![Tools Skills](https://skillicons.dev/icons?i=git,github,wordpress)
+<br><br>
 ![Shopify](https://img.shields.io/badge/Shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
 
 ---
